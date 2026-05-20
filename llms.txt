@@ -1,0 +1,11 @@
+# Devin Session Board
+
+Devin Session Board archives AI coding sessions, risk notes, review summaries, open questions, delivery receipts, and team handoff evidence.
+
+Website: https://devinsessionboard.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Devin session archive dashboard
+Type: SaaS
+Default plan: Team
+
+Public boundary: docs-only repository; no production source code or secrets.
